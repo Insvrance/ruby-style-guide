@@ -372,8 +372,8 @@ Translations of the guide are available in the following languages:
   ```
 
 * <a name="empty-lines-between-methods"></a>
-  Use two empty lines between method definitions and a single empty line 
-  to break up methods into logical paragraphs internally.
+  Use empty lines between method definitions and also to break up methods
+  into logical paragraphs internally.
 <sup>[[link](#empty-lines-between-methods)]</sup>
 
   ```Ruby
@@ -384,7 +384,6 @@ Translations of the guide are available in the following languages:
 
     data.result
   end
-
 
   def some_method
     result
